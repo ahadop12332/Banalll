@@ -1,4 +1,4 @@
-# Ꭰᴇᴠɪɴᴇ Ᏼᴀɴᴀʟʟ
+# Ꭰᴇᴍᴏɴɪᴏs Ᏼᴀɴᴀʟʟ
 
 ![Devine Banall Logo](https://telegra.ph/file/d92033060bad9004c4ad5.jpg)
 
@@ -16,4 +16,4 @@
 2. **Edit the README.md file** in your forked repository. Enter your forked URL repo link and let the journey begin.
 
 ### Support ?
-- Require assistance? [Join our Telegram 
+- Require assistance? [Join our Telegram](https://t.me/Demonios_Support)
